@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form action="http://127.0.0.1:3000/videos/download" method="post">
+      <label for="url">url</label>
+      <input type="text" name="url" width="200px" height="40px" id="url" />
+      <label for="format">format</label>
+      <input
+        type="text"
+        name="format"
+        width="200px"
+        height="40px"
+        id="format"
+      />
+      <button type="submit">download</button>
+    </form>
+    <hr />
+    <form action="http://127.0.0.1:3000/videos" method="get">
+      <label for="url">url</label>
+      <input type="text" name="url" width="200px" height="40px" id="url" />
+      <button type="submit">Get info</button>
+    </form>
+  </body>
+</html>

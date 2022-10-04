@@ -1,4 +1,4 @@
-# Youtube-Miner(API) is a simple api built with NodeJs(express) downloading videos from youtube with different formats
+# Youtube-Miner(API) is a simple api built with NodeJS/Express for downloading videos from youtube with different formats
 
 ### used 3rd part libraries
 

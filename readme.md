@@ -94,8 +94,8 @@ there are two main endpoints one for get video info like available formats , url
 
 ### TODO
 
-[ ] rewrite in typescript
+- [ ] rewrite in typescript
 
-[ ] add download part of video feature
+- [ ] add download part of video feature
 
-[ ] add content creator help tools
+- [ ] add content creator help tools

@@ -29,7 +29,7 @@ api just collect downloaded video data like title , url , quality to improve use
 
 - node v16.14.2
 
-- 8.10.0
+- npm v8.10.0
 
 ### installation
 

@@ -49,7 +49,7 @@ then open command line in the same directory and run this command
 
 - run in development enviroment
 
-`npm run start`
+`npm run start-dev`
 
 - run in production enviroment
 
